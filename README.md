@@ -4,7 +4,7 @@ Full stack e-commerce store with admin dashboard.
 
 ## Description
 
-This is a fully e-commerce store with admin dashboard, payment processing, and account management.
+This is a fully functioning e-commerce store with admin dashboard, payment processing, and account management.
 
 ### Dependencies
 
